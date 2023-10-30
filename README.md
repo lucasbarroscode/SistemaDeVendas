@@ -16,3 +16,22 @@ Projeto em desenvolvimento para estudos. o Sistema ira permitir o cadastro de cl
 - `Funcionalidade 3a`: Cadastro dos serviços prestados
   
 ![CRUD-CLIENTES](https://github.com/lucasbarroscode/SistemaDeVendas/assets/20017563/cff428a0-06ad-43cd-be6f-a49cd59a7af0)
+
+- `Funcionalidade 3b`: Busca dos serviços prestados (Para trazer os resultados deve-se preencher os campos "Nome do cliente" e "Mes")
+
+![Busca servicos](https://github.com/lucasbarroscode/SistemaDeVendas/assets/20017563/e5fcf535-8a8d-421e-8781-89e80141e3f1)
+
+# 🛠️ Abrir e rodar o projeto
+
+Após baixar o projeto, 
+ - você podera abrir com o Intelij a pasta do backend e executar o App via IDE.
+ - você podera abrir com o vscode a pasta do frontEnd e executar o projeto via terminal.
+   - ng serve
+
+# ✔️ Técnicas e tecnologias utilizadas
+  -  Java 11
+  -  Maven 2.6.2
+  -  h2 DataBase
+  -  Angular 9
+  -  Vscode
+  -  InteliJ IDEA
