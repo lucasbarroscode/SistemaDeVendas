@@ -1,6 +1,5 @@
 # Sistema de prestação de serviços
 
-
 :construction: Projeto em construção :construction:
 
 ## Descrição do Projeto
