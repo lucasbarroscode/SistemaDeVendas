@@ -1,5 +1,6 @@
 # Sistema de prestação de serviços
 
+<h6> Do not speak Portuguese? <a href="https://github.com/lucasbarroscode/SistemaDeVendasDeServico/blob/main/README.md"> Click here </a> to view this page in english.  </h6>
 
 :construction: Projeto em construção :construction:
 
