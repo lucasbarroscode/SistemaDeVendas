@@ -1,36 +1,37 @@
-# Sistema de prestação de serviços
+# Service Delivery System
 
-:construction: Projeto em construção :construction:
+:construction: Project Under Construction :construction:
 
-## Descrição do Projeto
-Projeto em desenvolvimento para estudos. o Sistema ira permitir o cadastro de clientes e seus serviços.
+## Description of the project
+Project in development for study. The System will allowed the register for clients and your services.
 
-# :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Cadastro de novos usuarios/Login
-- `Funcionalidade 2`: Crud dos clientes
+# :hammer: Funcionalities of the Project
+
+- `Funcionality 1`: Registration of new users/Login.
+- `Funcionality 2`: Crud of the clients.
   
 ![CRUD-CLIENTES](https://github.com/lucasbarroscode/SistemaDeVendas/assets/20017563/be865138-2aff-4b30-a7f7-31e37fe30e5b)
 
-- `Funcionalidade 3a`: Cadastro dos serviços prestados
+- `Funcionality 3a`: Registration of services provided.
   
 ![CRUD-CLIENTES](https://github.com/lucasbarroscode/SistemaDeVendas/assets/20017563/cff428a0-06ad-43cd-be6f-a49cd59a7af0)
 
-- `Funcionalidade 3b`: Busca dos serviços prestados (Para trazer os resultados deve-se preencher os campos "Nome do cliente" e "Mes")
+- `Funcionality 3b`: Search for services provided (To bring up the result you must fill the fields "Name of the client" and  "Month")
 
 ![Busca servicos](https://github.com/lucasbarroscode/SistemaDeVendas/assets/20017563/e5fcf535-8a8d-421e-8781-89e80141e3f1)
 
-# 🛠️ Abrir e rodar o projeto
+# 🛠️ Open and run the project
 
-Após baixar o projeto, 
- - você podera abrir com o Intelij a pasta do backend e executar o App via IDE.
- - você podera abrir com o vscode a pasta do frontEnd e executar o projeto via terminal.
+After you download the project
+ - you can open with Intellij IDEA backend folder and execute the application with the IDEA.
+ - you can open with vscode the frontEnd folder and execute the project by terminal.
    - ng serve
 
-# ✔️ Técnicas e tecnologias utilizadas
+# ✔️ Techniques and technologies used
   -  Java 11
   -  Maven 2.6.2
   -  h2 DataBase
   -  Angular 9
   -  Vscode
-  -  InteliJ IDEA
+  -  IntelliJ IDEA
